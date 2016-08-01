@@ -1,3 +1,3 @@
 # chef-learn
-Author: Mike O'Brien
-Repo to play with Chef
+- Author: Mike O'Brien
+- Repo to play with Chef
